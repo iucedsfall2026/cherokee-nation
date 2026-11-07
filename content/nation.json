@@ -1,0 +1,61 @@
+{
+  "nation": "Cherokee",
+  "about": {
+    "lead": "Cherokee Nation is the sovereign government of the Cherokee people, the largest of three federally recognized Cherokee tribes, with its capital in Tahlequah, Oklahoma. Its reservation spans 14 counties in northeastern Oklahoma.",
+    "facts": [
+      {"title": "Government", "text": "Three separate branches (legislative, executive and judicial) provide checks and balances. The Nation makes and enforces its own laws, regulates business, land, environment and wildlife, and taxes within its jurisdiction. The Cherokee Nation Marshal Service covers the full 14-county reservation and is cross-deputized with more than 90 federal, state, county and city agencies.", "source": "about"},
+      {"title": "Economy", "text": "Cherokee Nation Businesses runs gaming, manufacturing and other enterprises. Together with the tribal government it employs about 11,000 people in northeast Oklahoma. The Nation reports a total economic impact in Oklahoma of $2.16 billion in fiscal year 2018.", "source": "about"},
+      {"title": "Mission", "text": "Protecting inherent sovereignty, preserving and promoting Cherokee culture, language and values, and improving quality of life for the next seven generations of citizens.", "source": "about"}
+    ],
+    "timeline": [
+      {"year": "1540", "text": "First European contact, with Hernando de Soto's expedition."},
+      {"year": "1827", "text": "Written Constitution adopted under Principal Chief John Ross."},
+      {"year": "1832", "text": "Worcester v. Georgia: the Supreme Court holds Georgia's laws have no force in the Cherokee Nation."},
+      {"year": "1835", "text": "Treaty of New Echota signed by Cherokees without authority under Cherokee law."},
+      {"year": "1838–1839", "text": "Forced removal on the Trail of Tears. About 4,000 Cherokees, roughly one-fourth of the population, die."},
+      {"year": "1839", "text": "The Nation reunites under a new Constitution in Tahlequah."},
+      {"year": "1844", "text": "The Cherokee Advocate newspaper is founded in Tahlequah, printed in English and in Cherokee using Sequoyah's syllabary."},
+      {"year": "1846", "text": "Treaty confirms one Cherokee Nation, its lands held for the whole people."},
+      {"year": "1863", "text": "The Cherokee National Council abolishes slavery by tribal law."},
+      {"year": "1866", "text": "Treaty of Washington: Freedmen and their descendants receive all the rights of native Cherokees."},
+      {"year": "1902", "text": "Congress passes the Cherokee Nation allotment act, breaking up collectively held land."},
+      {"year": "1907", "text": "Oklahoma statehood takes in the Cherokee Nation Reservation."},
+      {"year": "1970", "text": "The Principal Chiefs Act restores popular election of the Principal Chief."},
+      {"year": "1976", "text": "A new Constitution supersedes the 1839 Constitution."},
+      {"year": "2003", "text": "The current Constitution replaces the 1976 Constitution."},
+      {"year": "2021", "text": "After McGirt v. Oklahoma (2020), the Oklahoma Court of Criminal Appeals rules in Hogner v. State that the Cherokee Nation Reservation was never disestablished."}
+    ],
+    "timeline_source": "history"
+  },
+  "sources": {
+    "about": {"label": "Cherokee Nation, About the Nation", "url": "https://www.cherokee.gov/About-The-Nation"},
+    "history": {"label": "Cherokee Nation, History", "url": "https://www.cherokee.gov/about-the-nation/history"}
+  },
+  "swot": [
+    {"id": "S1", "cat": "Strength", "type": "Quantitative", "title": "Most households are online", "evidence": "86.1% ±0.3 pp subscribe to broadband, up from 70.6% in 2014–2018 (ACS).", "limit": "Subscription, not speed or affordability."},
+    {"id": "S2", "cat": "Strength", "type": "Quantitative", "title": "High-speed service is widely available", "evidence": "94.4% of 271,129 residential locations have 100/20 Mbps available (FCC, December 2025).", "limit": "Availability is provider-reported, not verified on the ground."},
+    {"id": "S3", "cat": "Strength", "type": "Quantitative", "title": "Household income rose", "evidence": "Median household income $60,360 ±$616, up from $46,141 in 2014–2018 (ACS).", "limit": "Not adjusted for inflation; overlapping 5-year periods."},
+    {"id": "S4", "cat": "Strength", "type": "Quantitative", "title": "A large, growing regional job base", "evidence": "540,823 jobs located in the 14 counties in 2025, up from 515,886 in 2018 (QCEW).", "limit": "Regional jobs, not Tribal employment; weighted toward Tulsa."},
+    {"id": "S5", "cat": "Strength", "type": "Qualitative", "title": "The Nation is a major employer", "evidence": "Cherokee Nation Businesses and the tribal government employ about 11,000 people, with a $2.16 billion economic impact in FY2018.", "limit": "Self-reported; the impact figure is from 2018.", "sources": ["about"]},
+    {"id": "S6", "cat": "Strength", "type": "Qualitative", "title": "Established sovereign government", "evidence": "Three-branch constitutional government; reservation affirmed in 2021 (Hogner v. State); Marshal Service cross-deputized with more than 90 agencies.", "limit": "Describes capacity, not outcomes.", "sources": ["history", "about"]},
+    {"id": "W1", "cat": "Weakness", "type": "Quantitative", "title": "One in six residents is in poverty", "evidence": "16.7% ±0.4 pp of residents are below the poverty line (ACS).", "limit": "All residents, not citizens only."},
+    {"id": "W2", "cat": "Weakness", "type": "Quantitative", "title": "Renters face high housing costs", "evidence": "44.8% ±1.3 pp of renters pay 30% or more of income on rent; 20.8% ±1.1 pp pay 50% or more (ACS).", "limit": "Excludes renters without a computable ratio."},
+    {"id": "W3", "cat": "Weakness", "type": "Quantitative", "title": "Lower degree attainment", "evidence": "22.4% ±0.5 pp of adults 25 and older hold a bachelor's degree or higher (ACS).", "limit": "Says nothing about trade or tribal credentials."},
+    {"id": "W4", "cat": "Weakness", "type": "Quantitative", "title": "Aging housing stock", "evidence": "107,793 of 243,491 housing units (44.3%) were built before 1980 (ACS).", "limit": "Age is not condition."},
+    {"id": "W5", "cat": "Weakness", "type": "Quantitative", "title": "Many vacant homes with no listed purpose", "evidence": "17,533 ±571 units are \"other vacant\", 52.2% of 33,603 vacant units (ACS).", "limit": "Reasons such as repairs, estates or abandonment are unknown."},
+    {"id": "W6", "cat": "Weakness", "type": "Quantitative", "title": "Shrinking manufacturing and information sectors", "evidence": "Manufacturing establishments fell 6.8% (1,315 to 1,226) and information 6.2% (534 to 501), 2018 to 2023 (CBP).", "limit": "Establishments, not jobs."},
+    {"id": "W7", "cat": "Weakness", "type": "Qualitative", "title": "Fragmented land base", "evidence": "The 1902 allotment act broke up collectively held reservation land.", "limit": "Current land ownership patterns are not measured here.", "sources": ["history"]},
+    {"id": "O1", "cat": "Opportunity", "type": "Quantitative", "title": "A large proposed solar pipeline", "evidence": "10 proposed solar projects totaling 1,288.4 MW, mostly in Mayes County; 10 of 11 proposed generators sit inside the OTSA (EIA-860, 2025).", "limit": "Proposed projects can be cancelled; not Tribal-owned."},
+    {"id": "O2", "cat": "Opportunity", "type": "Quantitative", "title": "Growing service and logistics sectors", "evidence": "Establishments grew in real estate (+10.8%), transport and warehousing (+9.6%), health care (+9.3%) and construction (+9.0%), 2018 to 2023 (CBP).", "limit": "Establishment counts only."},
+    {"id": "O3", "cat": "Opportunity", "type": "Quantitative", "title": "Construction growth beyond Tulsa", "evidence": "Construction added 227 establishments, 92 of them outside Tulsa County, with 10 of 14 counties growing (CBP).", "limit": "Does not show demand or ownership."},
+    {"id": "O4", "cat": "Opportunity", "type": "Quantitative", "title": "The region draws in workers", "evidence": "220,364 jobs here are held by people living elsewhere in Oklahoma, versus 197,969 residents commuting out (LODES 2023).", "limit": "In-state flows only."},
+    {"id": "O5", "cat": "Opportunity", "type": "Quantitative", "title": "A growing labor force", "evidence": "The labor force grew from 567,964 to 617,899 (+8.8%), 2018 to 2024 (LAUS).", "limit": "County-level; includes non-citizens."},
+    {"id": "O6", "cat": "Opportunity", "type": "Qualitative", "title": "An adopted energy plan to build on", "evidence": "The Cherokee Nation Strategic Energy Plan (2025) is among the project's reference documents.", "limit": "Plan details not yet summarized here; Nation priorities govern."},
+    {"id": "T1", "cat": "Threat", "type": "Quantitative", "title": "High natural hazard risk", "evidence": "13 of 14 counties score above the national median on FEMA's risk index: Tulsa 97.9, Delaware 82.7, Muskogee 82.0 (NRI).", "limit": "County averages; no facility-level exposure."},
+    {"id": "T2", "cat": "Threat", "type": "Quantitative", "title": "High social vulnerability, low resilience", "evidence": "Social vulnerability is rated Very High in 7 counties and community resilience Very Low in 6 (NRI).", "limit": "Index ratings, not measured outcomes."},
+    {"id": "T3", "cat": "Threat", "type": "Quantitative", "title": "Sensitive to economic shocks", "evidence": "Unemployment doubled from 3.2% in 2019 to 6.4% in 2020, and jobs fell 4.6% (LAUS, QCEW).", "limit": "One shock; the region recovered by 2023."},
+    {"id": "T4", "cat": "Threat", "type": "Quantitative", "title": "Power supply relies on fossil fuels", "evidence": "Of 10,032.5 MW of operating capacity, 74.8% is natural gas and 16.3% coal (EIA-860, 2025).", "limit": "Capacity, not generation or ownership."},
+    {"id": "T5", "cat": "Threat", "type": "Quantitative", "title": "Regional capacity is shrinking slightly", "evidence": "Operating capacity fell from 10,567.5 MW in 2018 to 10,032.5 MW in 2025 (EIA-860).", "limit": "Retirements may be replaced by proposed projects."},
+    {"id": "T6", "cat": "Threat", "type": "Quantitative", "title": "Tulsa can mask rural conditions", "evidence": "Tulsa County held 57.9% of construction establishments in 2018 and drove 59.5% of the growth (CBP).", "limit": "A risk in reading the data, not a condition of the Nation."}
+  ]
+}
